@@ -7,8 +7,9 @@ My first steps in JavaScript 😊
 
 -	[https://www.linkedin.com/in/napoleon-anaya/](https://www.linkedin.com/in/napoleon-anaya/)
 
+## Preview 
 
-![..](https://github.com/alucart2005/little_tourism_page/blob/main/img/preview-pc.jpeg?raw=true)
+![..](https://github.com/alucart2005/littleJS_slider_video/blob/main/img/preview.jpg?raw=true)
 
 
 
