@@ -18,7 +18,6 @@ function nextSlide() {
   index = (index + 1) % slides.length;
   slides[index].classList.add('active');
   slidesText[index].classList.add('active');
-  console.log(index + "Next");
 }
 function prevSlide() {
   slides[index].classList.remove('active');
@@ -26,7 +25,6 @@ function prevSlide() {
   index = (index - 1 + slides.length) % slides.length;
   slides[index].classList.add('active');
   slidesText[index].classList.add('active');
-  console.log(index + "Prev");
 }
 
 
