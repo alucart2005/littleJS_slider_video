@@ -144,7 +144,7 @@ section .container .controls li:hover {
     padding: 20px;
   }
   section .container::before {
-    width: 100%;
+    width: 130px;
   }
   section .container header {
     padding: 10px 20px;
@@ -203,8 +203,13 @@ section .container .controls li:hover {
   section .container .content .bannerText div h2 {
     font-size: 3em;
   }
+  section .container .controls {
+    min-width: 100vw;
+    justify-content: space-around;
+  }
   section .container .controls li {
-    width: 60px;
+    width: 100%;
     height: 60px;
+    background: linear-gradient(to top, #f5f1f1, #4b4848);
   }
 }/*# sourceMappingURL=styles.css.map */

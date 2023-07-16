@@ -142,7 +142,7 @@ section{
     .container{
       padding: 20px;
       &::before{
-        width: 100%;
+        width: 130px;
       }
       header{
         padding: 10px 20px;
@@ -208,9 +208,12 @@ section{
         }
       }
       .controls{
+        min-width: 100vw;
+        justify-content: space-around;
         li{
-          width: 60px;
+          width: 100%;
           height: 60px;
+          background: linear-gradient(to top, #f5f1f1, #4b4848)
         };
         
       }
